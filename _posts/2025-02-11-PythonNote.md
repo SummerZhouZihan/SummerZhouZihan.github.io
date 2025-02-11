@@ -1,5 +1,5 @@
 ---
-title: PythonNote
+title:PythonNote
 mathjax:true
 ---
 # 零碎的Python笔记
