@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "这里是 Summer周子涵 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "周子涵,Summer,周子涵的博客"
-url: "https://huangxuan.me" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://summerzhouzihan.github.io/" # your host, for absolute URL
+baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -59,10 +59,10 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: Summer
+# disqus_username: Summer
 
 # Netease settings
-netease_comment: false
+# netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
@@ -74,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "放肆生活 <br> React Team @ Meta"
+sidebar-about-description: "坚持不幸是一种怠慢 <br> 不去追求幸福也是一种卑鄙"
 sidebar-avatar: img/pic-summer.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -92,4 +92,7 @@ page-mathjax: false
 friends:
   [
     { title: "CC98", href: "https://www.cc98.org/" },
+    { title: "沉默的鲸", href: "https://xlittlewhale.github.io/" },
+    { title: "Isshiki修", href: "https://note.isshikih.top/" },
+    { title: "SAVIA", href: "https://savia7582.github.io/Exterior/" },
   ]
