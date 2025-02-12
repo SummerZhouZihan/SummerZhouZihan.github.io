@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
+#weibo_username: huxpro
+#zhihu_username: huxpro
 github_username: SummerZhouZihan
-twitter_username: huxpro
+#twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Summer
 
 # Netease settings
 netease_comment: false
@@ -69,13 +69,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "放肆生活 <br> React Team @ Meta"
-sidebar-avatar: ./img/pic-summer.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/pic-summer.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -92,11 +92,4 @@ page-mathjax: false
 friends:
   [
     { title: "CC98", href: "https://www.cc98.org/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
