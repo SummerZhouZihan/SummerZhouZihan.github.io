@@ -2,11 +2,11 @@
 title: Summer Blog
 SEOTitle: 周子涵的博客 | Summer Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 3230103302@zju.edu.cn
 description: "这里是 Summer周子涵 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "周子涵,Summer,周子涵的博客"
-url: "https://summerzhouzihan.github.io/" # your host, for absolute URL
-baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://http://huangxuan.me" # your host, for absolute URL
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: Summer
+disqus_username: Summer
 
 # Netease settings
 # netease_comment: false
