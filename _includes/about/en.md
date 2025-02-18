@@ -1,5 +1,3 @@
-Hey， I am Zhou Zihan (Summer), currently studying Smart Energy at the School of Energy Engineering, Zhejiang University.
+Hey， I am Zhou Zihan (Summer), currently studying Smart Energy at the School of Energy Engineering, Zhejiang University. Recently, I have been interested in Machine Learning.
 
-Professional learning on how to burn boilers and how to efficiently burn boilers using computers.
-
-Here will be my study notes, recording some crazy attempts and interesting ideas.
+Here will be my study notes, recording some crazy attempts and interesting ideas. Welcome to come and play often~
