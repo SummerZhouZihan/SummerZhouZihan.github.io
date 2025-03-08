@@ -94,7 +94,7 @@ plt.show()
 
 示例图如下
 
-![无超参数](../img/in-post/post-hyperparameter/Figure_1.png)
+![无超参数](img/in-post/post-hyperparameter/Figure_1.png)
 
 
 
@@ -137,7 +137,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 以下是一个使用 `scikit-learn` 库实现上述方法的 Python 代码示例：
 
-```python
+```Python
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import PolynomialFeatures # 多项式回归
@@ -210,7 +210,8 @@ plt.show()
 
 我们得到验证集损失随最高次幂的变化曲线
 
-![验证集损失随最高次幂的变化曲线](../img/in-post/post-hyperparameter/Figure_2.png)
+![验证集损失随最高次幂的变化曲线](img/in-post/post-hyperparameter/Figure_2.png)
+
 
 由此我们得到
 
