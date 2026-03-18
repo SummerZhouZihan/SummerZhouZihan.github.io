@@ -1,8 +1,6 @@
-> 暂时不发
 ---
 layout:     post
 title:      "EnerAgentic：Multi-Agent Large Language Models for Assisting Scientific Research Tasks in Integrated Energy Systems"
-subtitle:   " \"\""
 date:       2025-12-07 22:00:00
 author:     "Summer"
 header-img: "img/head/image6.jpg"
