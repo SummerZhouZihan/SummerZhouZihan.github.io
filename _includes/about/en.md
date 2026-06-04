@@ -18,7 +18,11 @@ This is where I share my study notes, interesting ideas, and experiments. Feel f
 
 The project resulted in my first-author paper in the SCI-indexed journal *International Journal of General Systems*: [Eneragentic: multi-agent large language models for assisting scientific research tasks in integrated energy systems](https://www.tandfonline.com/doi/full/10.1080/03081079.2026.2663918). It also received the Grand Prize at the inaugural National College Student "Qizhen Wenzhi" AI Model & Agent Competition and First Prize at the inaugural National "AI + Energy" College Student Science and Technology Innovation Competition. Future work will further explore multi-agent architectures for integrated energy systems.
 
-[Access the open-source model](http://zjua4e.com:3000/)
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/%E6%96%B0%E5%BB%BA%20Microsoft%20PowerPoint%20%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF_02.png"/>
+
+[Access the open-source EnerAgentic model](http://zjua4e.com:3000/)
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-04%20171458.png"/>
 
 ### AI + Energy: Frontier Technology Retrieval for the Energy Sector
 
@@ -50,5 +54,9 @@ I am the sixth author of the paper [Enhanced SO2 and CO2 synergistic capture wit
 
 ## Student Leadership Experience
 
-- Member of the Presidium, 49th Student Union, College of Energy Engineering, Zhejiang University
-- Head of the Academic Development Department, Academic Guidance and Advancement Center, Zhejiang University
+- **Member of the Presidium, 49th Student Union, College of Energy Engineering, Zhejiang University** | April 2025 - April 2026
+- **Head of the Academic Development Department, Academic Guidance and Advancement Center, Zhejiang University** | September 2024 - June 2025
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/202606041720079.png"/>
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/202606041726019.png"/>

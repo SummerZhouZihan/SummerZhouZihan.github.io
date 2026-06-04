@@ -20,7 +20,17 @@ Hey，我是周子涵（Summer），就读于浙江大学智慧能源专业。
 
 相关成果以第一作者发表在SCI期刊 *International Journal of General Systems* 上，[Eneragentic: multi-agent large language models for assisting scientific research tasks in integrated energy systems](https://www.tandfonline.com/doi/full/10.1080/03081079.2026.2663918)，并获得首届全国大学生“启真问智”人工智能模型&智能体大赛特等奖、第一届全国“AI+能源”大学生科技创新竞赛一等奖。未来将进一步研究综合能源系统领域的多智能体架构等。
 
-[模型开源访问地址](http://zjua4e.com:3000/)
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/%E6%96%B0%E5%BB%BA%20Microsoft%20PowerPoint%20%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF_02.png"/>
+
+
+
+[能小问|EnerAgentic 模型开源访问地址](http://zjua4e.com:3000/)
+
+
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-04%20171458.png"/>
+
+
 
 ### AI+能源: 能源领域前沿技术检索项目
 
@@ -52,5 +62,9 @@ Hey，我是周子涵（Summer），就读于浙江大学智慧能源专业。
 
 ## 学生工作经历
 
-- 浙江大学能源工程学院第四十九届学生会主席团成员
-- 浙江大学学业指导与促进中心学业发展部部长
+- **浙江大学能源工程学院第四十九届学生会主席团成员** 2025年4月-2026年4月
+- **浙江大学学业指导与促进中心学业发展部部长** 2024年9月-2025年6月
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/202606041720079.png"/>
+
+<img src="https://zzh123-1325455460.cos.ap-nanjing.myqcloud.com/202606041726019.png"/>
